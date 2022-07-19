@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-project-template/static/css/main.98b30e73.css",
-    "main.js": "/react-project-template/static/js/main.652f198c.js",
-    "index.html": "/react-project-template/index.html",
-    "main.98b30e73.css.map": "/react-project-template/static/css/main.98b30e73.css.map",
-    "main.652f198c.js.map": "/react-project-template/static/js/main.652f198c.js.map"
+    "main.css": "/online-casino-royalle/static/css/main.98b30e73.css",
+    "main.js": "/online-casino-royalle/static/js/main.652f198c.js",
+    "index.html": "/online-casino-royalle/index.html",
+    "main.98b30e73.css.map": "/online-casino-royalle/static/css/main.98b30e73.css.map",
+    "main.652f198c.js.map": "/online-casino-royalle/static/js/main.652f198c.js.map"
   },
   "entrypoints": [
     "static/css/main.98b30e73.css",
